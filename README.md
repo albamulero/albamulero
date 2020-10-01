@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 - 🔭 I´m currently studying to be a fullstack programmer
 - 🌱 I’m currently learning to program
